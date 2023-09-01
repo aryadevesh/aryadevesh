@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJS, CSS, Advanced Python, etc.**
 
-- 👨‍💻 All of my projects are available at [deveshportfolio.surge.sh](deveshportfolio.surge.sh)
+- 👨‍💻 All of my projects are available at [deveshportfolio](https://deveshportfolio.surge.sh/)
 
 - 📫 How to reach me **aryadevesh78@gmail.com**
 
