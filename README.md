@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **ReactJS, CSS, Advanced Python, etc.**
 
-- 👨‍💻 All of my projects are available at [deveshportfolio](https://deveshportfolio.surge.sh/)
+
 
 - 📫 How to reach me **aryadevesh78@gmail.com**
 
-- 📄 Know about my experiences [https://deveshportfolio.surge.sh/files/Devesh_resume.pdf](https://deveshportfolio.surge.sh/files/Devesh_resume.pdf)
+
 
 - ⚡ Fun fact **I think I am a philosopher 😌**   
 
